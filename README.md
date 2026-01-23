@@ -4,7 +4,7 @@
 
 This repository contains the complete bioinformatics pipeline and dataset for assembling mitochondrial genes, particularly cytochrome c oxidase subunit I (COX1), directly from public transcriptomic data. The methodology bypasses traditional wet-lab procedures, providing a cost-effective and time-efficient alternative for obtaining complete mitochondrial gene sequences.
 
-*Last updated: July 2025*
+*Last updated: January 2026*
 
 # Targeted Gene Assembly Pipeline from Public Sequencing Data
 
